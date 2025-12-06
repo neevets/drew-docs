@@ -1,0 +1,33 @@
+input: .
+output: src
+
+url: https://docs.neevets.website
+
+start:
+  # pro = true
+
+meta:
+  title: " - Drew Docs"
+  description: "Our bot socumentation site."
+
+branding:
+  favicon: https://i.postimg.cc/fyMKYQfc/favicon.jpg
+  title: "Drew"
+  label: "v1.0.0"
+
+links:
+  - text: Premium
+    link: https://drewbot.site/premium
+    icon: ruby
+
+  - text: Support
+    link: https://discord.com/XXXXXXX
+    icon: comment-discussion
+
+footer:
+  copyright: "© Copyright {{ year }} Drew. All rights reserved."
+  links:
+    - text: Privacy Policy
+      link: ./legal/privacy.md
+    - text: Terms of Service
+      link: ./legal/terms.md
