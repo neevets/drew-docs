@@ -1,5 +1,5 @@
 input: .
-output: src
+output: .retype/
 
 url: https://docs.neevets.website
 
@@ -25,7 +25,7 @@ links:
     icon: comment-discussion
 
 footer:
-  copyright: "© Copyright {{ year }} Drew. All rights reserved."
+  copyright: "© Copyright 2025 Drew. All rights reserved."
   links:
     - text: Privacy Policy
       link: ./legal/privacy.md
