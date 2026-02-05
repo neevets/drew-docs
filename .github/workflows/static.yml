@@ -21,15 +21,30 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "latest"
+
+      - name: Install Retype
+        run: npm install -g retypeapp
+
+      - name: Build docs
+        run: retype build
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: .retype
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
