@@ -4,16 +4,16 @@ output: .retype/
 url: https://docs.neevets.website
 
 start:
-  # pro = true
+  pro: false
 
 meta:
-  title: " - Drew Docs"
-  description: "Our bot socumentation site."
+  title: "Drew Docs"
+  description: "Our bot documentation site."
 
 branding:
-  favicon: "drew.ico"
   title: "Drew"
   label: "v1.0.0"
+  favicon: /favicon.ico
 
 links:
   - text: Premium
@@ -21,13 +21,14 @@ links:
     icon: ruby
 
   - text: Support
-    link: https://drewbot.site/
+    link: https://drewbot.site/support
     icon: comment-discussion
 
 footer:
   copyright: "© Copyright 2025 Drew. All rights reserved."
   links:
     - text: Privacy Policy
-      link: ./legal/privacy.md
+      link: /legal/privacy.md
+
     - text: Terms of Service
-      link: ./legal/terms.md
+      link: /legal/terms.md
