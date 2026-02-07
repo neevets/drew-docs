@@ -11,7 +11,7 @@ meta:
   description: "Our bot socumentation site."
 
 branding:
-  favicon: https://files.catbox.moe/6b73n6.ico
+  favicon: drew.ico
   title: "Drew"
   label: "v1.0.0"
 
@@ -21,7 +21,7 @@ links:
     icon: ruby
 
   - text: Support
-    link: https://discord.com/XXXXXXX
+    link: https://drewbot.site/
     icon: comment-discussion
 
 footer:
