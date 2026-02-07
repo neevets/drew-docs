@@ -11,7 +11,8 @@ meta:
   description: "Our bot socumentation site."
 
 branding:
-  favicon: drew.ico
+  favicon: ./drew.ico
+  logo: drew.ico
   title: "Drew"
   label: "v1.0.0"
 
