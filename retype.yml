@@ -7,13 +7,13 @@ start:
   pro: false
 
 meta:
-  title: "Drew Docs"
+  title: " - Drew Docs"
   description: "Our bot documentation site."
 
 branding:
   title: "Drew"
   label: "v1.0.0"
-  favicon: /favicon.ico
+  favicon: static/favicon.ico
 
 links:
   - text: Premium
