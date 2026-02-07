@@ -1,6 +1,6 @@
 ---
 label: v.1.0.0
-authors:
+author:
   - name: Neevets
     email: contact@neevets.website
     avatar: static/neevets.png
