@@ -5,14 +5,17 @@ icon: link
 
 # Invite
 
-Use the official Drew invitation URL to authorize the bot in your Discord server.
+Use this page only if you are deploying Drew through a hosted bot account.
 
 !!!warning Environment Selection
 Always confirm whether you are inviting Drew to a production server or a staging/testing server before authorization.
 
+!!!info Self-Hosted Note
+If you are running Drew from source code, this page is optional. Use `getting_started/installation.md` and `getting_started/configuration.md` instead.
+
 ## Pre-Invite Checklist
 
-- You have the required Discord permissions to manage integrations.
+- You have `Administrator` permission in the target server.
 - You selected the correct server environment (production vs. testing).
 - Your moderation policy permits all requested scopes.
 
@@ -28,7 +31,7 @@ Always confirm whether you are inviting Drew to a production server or a staging
 
 1. Open the official invitation URL.
 2. Select the target server.
-3. Review requested permissions in the Discord authorization screen.
+3. Confirm that `Administrator` is granted in the Discord authorization screen.
 4. Approve the request.
 
 ## Immediate Verification

@@ -1,5 +1,6 @@
 ---
 label: Coming Soon...
+order: 9
 ---
 
 # Coming Soon...

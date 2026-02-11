@@ -18,20 +18,12 @@ All requirements in this page should be validated before opening the invite flow
 
 ## Permission Requirements
 
-At minimum, the account performing installation should have:
+The account performing installation must have:
 
-- `Manage Server`
-- `Manage Roles` (recommended for full setup validation)
-- Access to channels where Drew commands will be executed
+- `Administrator` (required)
 
-=== Minimum Baseline
-- `Manage Server`
-- Access to at least one writable setup channel
-
-=== Recommended for Staff Setup
-- `Manage Server`
-- `Manage Roles`
-- Visibility into category-level channel overrides
+!!!danger Mandatory Administrator Access
+Drew requires the `Administrator` permission to operate correctly across its OPSEC and incident-response modules.
 
 ## Role Hierarchy Requirements
 

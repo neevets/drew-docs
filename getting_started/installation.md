@@ -5,39 +5,39 @@ icon: rocket
 
 # Installation
 
-This section describes the standard deployment flow for Drew.
+This section explains how to add Drew to a Discord server.
 
 !!!primary Deployment Goal
-Complete installation with verified command execution before granting broad channel visibility.
+Authorize Drew correctly and confirm it is operational in your server.
 
-## Step 1: Install the Bot
+## Step 1: Open the Invite URL
 
-1. Open the official invite link.
-2. Select the target server from your Discord account.
-3. Review the requested permissions.
-4. Confirm authorization to complete installation.
+Open the official Drew invite link.
 
-## Step 2: Verify Core Access
+## Step 2: Select the Target Server
 
-After installation, validate the following:
+Choose the Discord server where you want Drew installed.
 
-- Drew is visible in your server member list.
-- The Drew role exists and is enabled.
-- Drew can read and send messages in at least one setup channel.
+## Step 3: Approve Permissions
 
-## Step 3: Validate Command Execution
+Ensure `Administrator` is enabled in the authorization screen, then approve access.
 
-Run one basic command in your setup channel. A successful response confirms:
+!!!danger Required Permission
+Drew requires `Administrator` permission to provide full OPSEC, anti-raid, and recovery coverage.
 
-- Bot presence
-- Message permissions
-- API connectivity
+## Step 4: Complete Discord Authorization
+
+Finish the Discord confirmation flow (including captcha if prompted).
+
+## Step 5: Verify Installation
 
 !!!success Validation Passed
-If all checks in Steps 2 and 3 pass, continue with production permission rollout.
+Confirm the following in your server:
 
-## Step 4: Apply Production Permissions
+- Drew appears in the member list
+- The Drew role exists
+- Drew can read and send messages in your setup channel
 
-Once validation is complete, grant channel-level permissions according to your server policy. Use least-privilege access where possible.
+Continue with `commands/opsec.md` for module setup.
 
-If a command does not respond, continue with `setup_guide/troubleshooting.md`.
+If verification fails, continue with `setup_guide/troubleshooting.md`.
