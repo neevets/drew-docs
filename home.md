@@ -16,10 +16,9 @@ Follow the reading order below for the fastest production-ready setup.
 
 1. `getting_started/requirements.md`
 2. `getting_started/installation.md`
-3. `getting_started/configuration.md`
-4. `getting_started/pricing.md`
-5. `commands/opsec.md`
-6. `setup_guide/troubleshooting.md`
+3. `getting_started/pricing.md`
+4. `commands/opsec.md`
+5. `setup_guide/troubleshooting.md`
 
 ## Core Modules
 

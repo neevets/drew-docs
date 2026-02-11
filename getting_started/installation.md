@@ -7,7 +7,7 @@ icon: rocket
 
 This section explains how to add Drew to a Discord server.
 
-!!!primary Deployment Goal
+!!!primary Installation Goal
 Authorize Drew correctly and confirm it is operational in your server.
 
 ## Step 1: Open the Invite URL

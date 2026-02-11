@@ -5,13 +5,10 @@ icon: link
 
 # Invite
 
-Use this page only if you are deploying Drew through a hosted bot account.
+Use the official invite flow to add Drew to your Discord server.
 
 !!!warning Environment Selection
 Always confirm whether you are inviting Drew to a production server or a staging/testing server before authorization.
-
-!!!info Self-Hosted Note
-If you are running Drew from source code, this page is optional. Use `getting_started/installation.md` and `getting_started/configuration.md` instead.
 
 ## Pre-Invite Checklist
 
