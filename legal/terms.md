@@ -20,7 +20,7 @@ By using Drew, you agree to:
 - Not attempt to abuse, exploit, or disrupt the bot or its systems  
 - Not spam commands or use automation tools to overload the bot  
 - Not sell, distribute, or trade any tracked data or statistics  
-- Accept that Drew Bot is provided for entertainment and utility purposes, and the developers are not responsible for any damages, losses, or issues caused by its use  
+- Accept that Drew is provided for entertainment and utility purposes, and the developers are not responsible for any damages, losses, or issues caused by its use  
 
 We reserve the right to revoke access to Drew at any time if these rules are violated.
 
@@ -28,7 +28,7 @@ We reserve the right to revoke access to Drew at any time if these rules are vio
 
 ## What We Track
 
-Drew Bot may store limited data required for functionality, including:
+Drew may store limited data required for functionality, including:
 
 - Discord User IDs  
 - Server-related configuration data  
