@@ -1,0 +1,34 @@
+input: .
+output: .retype/
+
+url: https://docs.neevets.website
+
+start:
+  pro: false
+
+meta:
+  title: " - Drew Docs"
+  description: "Meet Drew, the Discord security bot built by Stane. Automod, anti-raid, anti-nuke, verification, and detailed logs in one clean dashboard."
+
+branding:
+  title: "Drew"
+  label: "v1.0.0"
+  favicon: static/favicon.ico
+
+links:
+  - text: Premium
+    link: https://drewbot.site/premium
+    icon: ruby
+
+  - text: Support
+    link: https://drewbot.site/support
+    icon: comment-discussion
+
+footer:
+  copyright: "© Copyright 2025 Drew. All rights reserved."
+  links:
+    - text: Privacy Policy
+      link: /legal/privacy.md
+
+    - text: Terms of Service
+      link: /legal/terms.md
