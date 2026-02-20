@@ -5,39 +5,86 @@ icon: checklist
 
 # Terms of Service
 
-**Last Updated:** January 2026
+**Last updated and effective:** February 20, 2026
 
-By using Drew, you agree to these Terms of Service. If you do not agree with these terms, you must remove the bot from your server.
+By inviting or using **Drew** (the "Services") in any Discord server, you agree to these Terms of Service and the Privacy Policy.
 
----
-
-## Your Agreement
-
-By using Drew, you agree to:
-
-- Follow Discord’s Terms of Service and Community Guidelines  
-- Not use the bot for illegal, harmful, or abusive purposes  
-- Not attempt to abuse, exploit, or disrupt the bot or its systems  
-- Not spam commands or use automation tools to overload the bot  
-- Not sell, distribute, or trade any tracked data or statistics  
-- Accept that Drew is provided for entertainment and utility purposes, and the developers are not responsible for any damages, losses, or issues caused by its use  
-
-We reserve the right to revoke access to Drew at any time if these rules are violated.
+If you do not agree, you must stop using the Services and remove Drew from your server.
 
 ---
 
-## What We Track
+## 1) Eligibility and Compliance
 
-Drew may store limited data required for functionality, including:
+You agree to use Drew in compliance with:
 
-- Discord User IDs  
-- Server-related configuration data  
-- Command usage data or timestamps required for features to function  
+- Discord Terms of Service
+- Discord Community Guidelines
+- All applicable local laws and regulations
 
-No unnecessary personal information is collected.
+You are responsible for ensuring your server members use the Services appropriately.
 
 ---
 
-## Acceptance of Terms
+## 2) Acceptable Use
 
-By continuing to use Drew, you acknowledge that you have read and agreed to these Terms of Service.
+You must **not**:
+
+- Abuse, exploit, reverse engineer, or disrupt Drew or related systems
+- Use Drew for unlawful, harmful, deceptive, or abusive activity
+- Automate or spam commands in a way that degrades service quality
+- Attempt to bypass limitations, permissions, or security controls
+- Misrepresent Drew as your own service or plagiarize its features/content
+
+---
+
+## 3) Service Availability
+
+We strive to provide a stable experience, but Drew is provided on an **"as is"** and **"as available"** basis.
+
+We may modify, suspend, or discontinue features at any time, with or without notice.
+
+---
+
+## 4) Data and Privacy
+
+Use of Drew is also governed by our Privacy Policy.
+
+By using the Services, you acknowledge that limited operational data may be processed to provide functionality, security, and reliability.
+
+---
+
+## 5) Enforcement and Termination
+
+We reserve the right to restrict or terminate access to Drew, in whole or in part, at our sole discretion, especially in cases of:
+
+- Breach of these Terms
+- Abuse of platform functionality
+- Conduct that creates legal, operational, or security risk
+
+Termination may occur without prior notice.
+
+---
+
+## 6) Limitation of Liability
+
+To the maximum extent permitted by law, Drew and its operators are not liable for indirect, incidental, special, consequential, or exemplary damages arising from use (or inability to use) the Services.
+
+You use Drew at your own risk.
+
+---
+
+## 7) Indemnification
+
+You agree to indemnify and hold harmless Drew and its operators from claims, liabilities, damages, losses, and expenses resulting from:
+
+- Your use of the Services
+- Your violation of these Terms
+- Your violation of applicable law or third-party rights
+
+---
+
+## 8) Changes to These Terms
+
+We may revise these Terms at any time.
+
+When updated, we will modify the "Last updated and effective" date shown above. Continued use of Drew after changes become effective constitutes acceptance of the revised Terms.
