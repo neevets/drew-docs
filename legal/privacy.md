@@ -15,77 +15,88 @@ By using Drew, you agree to this Privacy Policy.
 
 ## 1) Data Controller
 
-Drew is operated by the Drew team.
+Drew is operated by its independent developer.
 
-If any statement in this policy appears unclear or inaccurate, please contact us through our support server.
+For questions or data-related requests, please contact us through the official support server.
 
 ---
 
 ## 2) Information We Collect
 
-We only collect data that is required to operate core bot functionality, including:
+We collect only the data necessary to operate core bot functionality, including:
 
-- Discord User IDs
-- Server (Guild) IDs
-- Channel IDs and role references used in configuration
-- Feature configuration data and moderation settings
-- Command usage metadata (for example, timestamps and feature activity events)
-
----
-
-## 3) Information We Do Not Collect
-
-Drew does **not** intentionally collect or retain:
-
-- Message content or chat logs
-- Sensitive personal information
-- Profile data beyond what Discord provides temporarily through its API for normal operation
+- Discord User IDs  
+- Server (Guild) IDs  
+- Channel IDs  
+- Role IDs  
+- Configuration settings and moderation preferences  
+- Logs of moderation actions, including associated timestamps of related events  
+- Command usage metadata necessary for functionality and reliability  
 
 ---
 
-## 4) Why We Use This Data
+## 3) Message Content
 
-We use collected information strictly to:
+Drew does not store message content unless explicitly required for moderation or security functionality enabled by a server administrator.
 
-- Provide, maintain, and improve Drew features
-- Save user/server settings requested by administrators
-- Enable feature analytics, status checks, and bot reliability improvements
-- Diagnose technical issues and maintain service integrity
-
-We do **not** sell personal data, and we do not disclose collected data to third parties for marketing.
+If such functionality is enabled, message data is processed strictly for moderation or security purposes.
 
 ---
 
-## 5) Data Retention
+## 4) Purpose of Data Processing
 
-We retain data only as long as necessary for functionality, security, and legitimate operational needs.
+We process collected data strictly to:
 
-If specific data is no longer required, it is deleted or anonymized when reasonably possible.
+- Provide and maintain Drew functionality  
+- Store server configuration settings  
+- Enable moderation and anti-nuke systems  
+- Improve reliability and detect abuse  
+- Diagnose technical issues  
 
----
-
-## 6) Data Security
-
-We apply reasonable technical and organizational safeguards to protect stored information, including:
-
-- Restricted system access
-- Controlled infrastructure access for maintenance
-- Standard security practices designed to reduce unauthorized access risk
-
-No platform can guarantee absolute security, but we continuously work to protect data responsibly.
+We do not sell personal data.  
+We do not share data with third parties for marketing purposes.
 
 ---
 
-## 7) Data Requests and Deletion
+## 5) Legal Basis (Where Applicable)
 
-If you want to request access to your stored data or ask for data deletion, contact us through our support server.
+Where applicable under data protection laws, data processing is based on:
 
-To process requests safely, we may require proof that you control the relevant Discord account or server.
+- Legitimate interest in providing secure and reliable bot services  
+- Performance of a service requested by server administrators  
 
 ---
 
-## 8) Policy Changes
+## 6) Data Retention
 
-We may update this Privacy Policy from time to time.
+We retain operational data only as long as necessary for functionality, security, and legitimate operational needs.
 
-When changes are made, we will update the "Last updated and effective" date at the top of this page. Continued use of Drew after updates means you accept the revised policy.
+Data that is no longer required is deleted or anonymized where reasonably possible.
+
+---
+
+## 7) Data Security
+
+We apply reasonable technical and organizational safeguards, including:
+
+- Restricted system access  
+- Controlled infrastructure access  
+- Standard security practices to reduce unauthorized access risks  
+
+While we take security seriously, no system can guarantee absolute protection.
+
+---
+
+## 8) Data Requests
+
+You may request access to or deletion of data associated with your Discord account or server by contacting us through the support server.
+
+We may require reasonable verification to confirm account or server ownership before processing such requests.
+
+---
+
+## 9) Policy Changes
+
+We may update this Privacy Policy periodically.
+
+When changes occur, the "Last updated and effective" date will be revised. Continued use of Drew constitutes acceptance of the updated policy.
