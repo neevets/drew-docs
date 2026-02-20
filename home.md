@@ -7,7 +7,7 @@ icon: home
 
 Welcome to the official documentation for **Drew**.
 
-Drew is an advanced bot focused on security, moderation, and autopost.
+Drew is an advanced OPSEC bot focused on moderation and autopost.
 
 !!!primary Quick Start
 Follow the reading order below for the fastest production-ready setup.
@@ -17,7 +17,7 @@ Follow the reading order below for the fastest production-ready setup.
 1. [getting_started/requirements.md](getting_started/requirements.md)
 2. [getting_started/installation.md](getting_started/installation.md)
 3. [getting_started/pricing.md](getting_started/pricing.md)
-4. [commands/sec/about.md](commands/sec/about.md)
+4. [commands/sec/init.md](commands/sec/init.md)
 5. [setup_guide/troubleshooting.md](setup_guide/troubleshooting.md)
 
 ## What Drew Does
