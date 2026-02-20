@@ -7,7 +7,7 @@ icon: law
 
 **Last updated and effective:** February 20, 2026
 
-This Privacy Policy explains how **Drew** ("we", "us", "our") collects, uses, stores, and protects information when you use our Discord bot and related services (the "Services").
+This Privacy Policy explains how **Stane**, as the developer and operator of **Drew**, collects, uses, stores, and protects information when you use the Services.
 
 By using Drew, you agree to this Privacy Policy.
 
@@ -15,7 +15,7 @@ By using Drew, you agree to this Privacy Policy.
 
 ## 1) Data Controller
 
-Drew is operated by its independent developer.
+The data controller for Drew is **Stane**, the studio responsible for development and operation.
 
 For questions or data-related requests, please contact us through the official support server.
 
@@ -53,16 +53,15 @@ We process collected data strictly to:
 - Improve reliability and detect abuse  
 - Diagnose technical issues  
 
-We do not sell personal data.  
-We do not share data with third parties for marketing purposes.
+We do not sell personal data and do not share data for marketing purposes.
 
 ---
 
 ## 5) Legal Basis (Where Applicable)
 
-Where applicable under data protection laws, data processing is based on:
+Where applicable under data protection laws, processing is based on:
 
-- Legitimate interest in providing secure and reliable bot services  
+- Legitimate interest in providing secure and reliable services  
 - Performance of a service requested by server administrators  
 
 ---
@@ -71,7 +70,7 @@ Where applicable under data protection laws, data processing is based on:
 
 We retain operational data only as long as necessary for functionality, security, and legitimate operational needs.
 
-Data that is no longer required is deleted or anonymized where reasonably possible.
+Data that is no longer required is deleted or anonymized when reasonably possible.
 
 ---
 
@@ -81,9 +80,9 @@ We apply reasonable technical and organizational safeguards, including:
 
 - Restricted system access  
 - Controlled infrastructure access  
-- Standard security practices to reduce unauthorized access risks  
+- Standard security practices  
 
-While we take security seriously, no system can guarantee absolute protection.
+No system can guarantee absolute security, but we work to protect data responsibly.
 
 ---
 
@@ -91,12 +90,12 @@ While we take security seriously, no system can guarantee absolute protection.
 
 You may request access to or deletion of data associated with your Discord account or server by contacting us through the support server.
 
-We may require reasonable verification to confirm account or server ownership before processing such requests.
+We may require verification to confirm account or server ownership.
 
 ---
 
 ## 9) Policy Changes
 
-We may update this Privacy Policy periodically.
+Stane may update this Privacy Policy periodically.
 
 When changes occur, the "Last updated and effective" date will be revised. Continued use of Drew constitutes acceptance of the updated policy.
