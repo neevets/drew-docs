@@ -38,6 +38,6 @@ Confirm the following in your server:
 - The Drew role exists
 - Drew can read and send messages in your setup channel
 
-Continue with `commands/opsec.md` for module setup.
+Continue with [commands/sec/init.md](../commands/sec/init.md) for module setup.
 
-If verification fails, continue with `setup_guide/troubleshooting.md`.
+If verification fails, continue with [setup_guide/troubleshooting.md](../setup_guide/troubleshooting.md).
